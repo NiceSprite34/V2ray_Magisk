@@ -1,0 +1,12 @@
+#身份证，独一无二，最好数字英文，不能空格中文乱七八糟字符串，不然无法识别
+id=v2ray-Magisk&Android
+#名称
+name=V2ray[Magisk自启动]
+#版本
+version=8.8.8
+#版本代号：必须纯数字，用于判断更新
+versionCode=1
+#作者
+author=@NiceSprite
+#描述
+description=安装目录在/data/2/11里
